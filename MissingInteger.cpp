@@ -1,4 +1,6 @@
-1. MissingInteger
+/**
+
+MissingInteger
 Find the smallest positive integer that does not occur in a given sequence.
 This is a demo task.
 
@@ -18,6 +20,9 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range [1..100,000];
 each element of array A is an integer within the range [−1,000,000..1,000,000].
+
+https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+**/
 // you can use includes, for example:
 #include <algorithm>
 
